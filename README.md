@@ -1,4 +1,4 @@
-# 🔐 Application OTP – Authentification par Code SMS  
+# 🔐 Application OTP – Authentification par Code SMS
 Application complète permettant l’envoi et la vérification d’un OTP (Code SMS) pour sécuriser la connexion utilisateur.  
 Développée avec **Spring Boot**, **React**, **MySQL** et une API SMS externe.
 ## 🚀 Fonctionnalités

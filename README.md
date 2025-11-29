@@ -68,11 +68,15 @@ server.port=8080
 cd frontend
 npm install
 ```
-# 📡 4. Tester avec Postman
+# 📡 4. Tester avec Postman---url à utiliser sur postman POST http://localhost:8080/auth/send-otp
 
 ## 🟣 Envoyer OTP
 
 Body JSON :
 ```json
 { "username": "mariam" }
+```
+## Pour Lancer l'application avec Docker 
+```
+docker compos up build
 ```
